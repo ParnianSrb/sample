@@ -1,4 +1,3 @@
-# sample
 # Three Samples of HTML Tables
 # HTML Tables with complex Horizontal and Verical divisions
 This code is written in HTML, a standard Markup Language, using the documentation of www.w3schools.com. It includes three differing formats of HTML Tables with each including all the common HTML Table Tags.
